@@ -1,5 +1,5 @@
 
-const apiKey = 'here_should_be_apiKey';
+const apiKey = '710f2b60aa6f456db41130359242307';
 
 /* Get city name*/
 const header = document.querySelector('#header');
